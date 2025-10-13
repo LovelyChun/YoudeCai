@@ -1,0 +1,2 @@
+# YoudeCai
+YAML configuration subscription
